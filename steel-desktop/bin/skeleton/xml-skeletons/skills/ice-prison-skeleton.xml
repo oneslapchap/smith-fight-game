@@ -1,0 +1,40 @@
+<skeleton name="Untitled-1" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="ice-prison">
+   <b name="iceTopR" x="150.35" y="-166.6" kX="0" kY="0" cX="1" cY="1" pX="50" pY="50" z="0">
+    <d name="parts-iceTopR" pX="0" pY="0"/>
+   </b>
+   <b name="iceTopL" x="-139.65" y="-159.6" kX="0" kY="0" cX="1" cY="1" pX="50" pY="50" z="1">
+    <d name="parts-iceTopL" pX="0" pY="0"/>
+   </b>
+   <b name="iceBottomR" x="146.35" y="159.35" kX="0" kY="0" cX="1" cY="1" pX="50" pY="50" z="2">
+    <d name="parts-iceBottomR" pX="0" pY="0"/>
+   </b>
+   <b name="iceBottomL" x="-135.65" y="149.35" kX="0" kY="0" cX="1" cY="1" pX="50" pY="50" z="3">
+    <d name="parts-iceBottomL" pX="0" pY="0"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="ice-prison">
+   <mov name="shoot" dr="2" to="6" drTW="24" lp="0" twE="2">
+    <b name="iceTopR" sc="1" dl="0">
+     <f x="150.35" y="-166.6" kX="0" kY="0" cX="1" cY="1" pX="50" pY="50" z="0" dI="0" dr="1"/>
+     <f x="42.35" y="-48.65" kX="135" kY="135" cX="1" cY="1" pX="50" pY="50" z="0" dI="0" dr="1"/>
+    </b>
+    <b name="iceTopL" sc="1" dl="0">
+     <f x="-139.65" y="-159.6" kX="0" kY="0" cX="1" cY="1" pX="50" pY="50" z="1" dI="0" dr="1"/>
+     <f x="-41.65" y="-43.65" kX="75" kY="75" cX="1" cY="1" pX="50.05" pY="50" z="1" dI="0" dr="1"/>
+    </b>
+    <b name="iceBottomR" sc="1" dl="0">
+     <f x="146.35" y="159.35" kX="0" kY="0" cX="1" cY="1" pX="50" pY="50" z="2" dI="0" dr="1"/>
+     <f x="17.35" y="32.9" kX="45" kY="45" cX="1" cY="1" pX="50" pY="50" z="2" dI="0" dr="1"/>
+    </b>
+    <b name="iceBottomL" sc="1" dl="0">
+     <f x="-135.65" y="149.35" kX="0" kY="0" cX="1" cY="1" pX="50" pY="50" z="3" dI="0" dr="1"/>
+     <f x="-43.65" y="42.35" kX="75" kY="75" cX="1" cY="1" pX="50" pY="50" z="3" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+</skeleton>

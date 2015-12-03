@@ -1,0 +1,98 @@
+<skeleton name="Untitled-1" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="droid">
+   <b name="legL" x="-102.25" y="85" kX="0" kY="0" cX="1" cY="1" pX="49.5" pY="55.5" z="0">
+    <d name="parts-legL" pX="0" pY="0"/>
+   </b>
+   <b name="body" x="85" y="19.35" kX="0" kY="0" cX="1" cY="1" pX="46.5" pY="27.5" z="1">
+    <d name="parts-body" pX="0" pY="0"/>
+   </b>
+   <b name="head" x="0.35" y="-0.65" kX="0" kY="0" cX="1" cY="1" pX="99.5" pY="50" z="2">
+    <d name="parts-head" pX="0" pY="0"/>
+   </b>
+   <b name="legR" x="31.5" y="81.75" kX="0" kY="0" cX="1" cY="1" pX="37.5" pY="60" z="3">
+    <d name="parts-legR" pX="0" pY="0"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="droid">
+   <mov name="idle" dr="2" to="6" drTW="24" lp="1" twE="2">
+    <b name="legL" sc="1" dl="0">
+     <f x="-102.25" y="85" kX="0" kY="0" cX="1" cY="1" pX="49.5" pY="55.5" z="0" dI="0" dr="0.5"/>
+     <f x="-102.25" y="85" kX="0" kY="0" cX="1" cY="1" pX="49.5" pY="55.5" z="0" dI="0" dr="0.5"/>
+    </b>
+    <b name="body" sc="1" dl="0">
+     <f x="85" y="19.35" kX="0" kY="0" cX="1" cY="1" pX="46.5" pY="27.5" z="1" dI="0" dr="0.5"/>
+     <f x="85" y="19.35" kX="7.71" kY="7.71" cX="1" cY="1" pX="46.55" pY="27.45" z="1" dI="0" dr="0.5"/>
+    </b>
+    <b name="head" sc="1" dl="0">
+     <f x="0.35" y="-0.65" kX="0" kY="0" cX="1" cY="1" pX="99.5" pY="50" z="2" dI="0" dr="0.5"/>
+     <f x="0.35" y="8.85" kX="0" kY="0" cX="1" cY="1" pX="99.5" pY="50" z="2" dI="0" dr="0.5"/>
+    </b>
+    <b name="legR" sc="1" dl="0">
+     <f x="31.5" y="81.75" kX="0" kY="0" cX="1" cY="1" pX="37.5" pY="60" z="3" dI="0" dr="0.5"/>
+     <f x="31.5" y="81.75" kX="0" kY="0" cX="1" cY="1" pX="37.5" pY="60" z="3" dI="0" dr="0.5"/>
+    </b>
+   </mov>
+   <mov name="walk" dr="3" to="6" drTW="24" lp="1" twE="NaN">
+    <b name="legL" sc="1" dl="0">
+     <f x="-102.25" y="85" kX="0" kY="0" cX="1" cY="1" pX="49.5" pY="55.5" z="0" dI="0" dr="0.1"/>
+     <f x="-103.25" y="74" kX="15" kY="15" cX="1" cY="1" pX="49.55" pY="55.45" z="0" dI="0" dr="0.1"/>
+     <f x="-102.25" y="85" kX="0" kY="0" cX="1" cY="1" pX="49.5" pY="55.5" z="0" dI="0" dr="0.1"/>
+    </b>
+    <b name="body" sc="1" dl="0">
+     <f x="85" y="19.35" kX="0" kY="0" cX="1" cY="1" pX="46.5" pY="27.5" z="1" dI="0" dr="0.1"/>
+     <f x="85" y="19.35" kX="0" kY="0" cX="1" cY="1" pX="46.5" pY="27.5" z="1" dI="0" dr="0.1"/>
+     <f x="85" y="19.35" kX="0" kY="0" cX="1" cY="1" pX="46.5" pY="27.5" z="1" dI="0" dr="0.1"/>
+    </b>
+    <b name="head" sc="1" dl="0">
+     <f x="0.35" y="-0.65" kX="0" kY="0" cX="1" cY="1" pX="99.5" pY="50" z="2" dI="0" dr="0.1"/>
+     <f x="0.35" y="-0.65" kX="0" kY="0" cX="1" cY="1" pX="99.5" pY="50" z="2" dI="0" dr="0.1"/>
+     <f x="0.35" y="-0.65" kX="0" kY="0" cX="1" cY="1" pX="99.5" pY="50" z="2" dI="0" dr="0.1"/>
+    </b>
+    <b name="legR" sc="1" dl="0">
+     <f x="31.5" y="81.75" kX="0" kY="0" cX="1" cY="1" pX="37.5" pY="60" z="3" dI="0" dr="0.1"/>
+     <f x="31.5" y="81.75" kX="0" kY="0" cX="1" cY="1" pX="37.5" pY="60" z="3" dI="0" dr="0.1"/>
+     <f x="31.5" y="74.75" kX="-5.98" kY="-5.98" cX="1" cY="1" pX="37.55" pY="60" z="3" dI="0" dr="0.1"/>
+    </b>
+   </mov>
+   <mov name="attack" dr="3" to="6" drTW="24" lp="1" twE="NaN">
+    <b name="legL" sc="1" dl="0">
+     <f x="-102.25" y="85" kX="0" kY="0" cX="1" cY="1" pX="49.5" pY="55.5" z="0" dI="0" dr="0.3"/>
+     <f x="-112.5" y="27.25" kX="45" kY="45" cX="1" cY="1" pX="49.5" pY="55.5" z="0" dI="0" dr="0.3"/>
+     <f x="-86" y="66.5" kX="-23.67" kY="-23.67" cX="1" cY="1" pX="49.5" pY="55.5" z="0" dI="0" dr="0.3"/>
+    </b>
+    <b name="body" sc="1" dl="0">
+     <f x="85" y="19.35" kX="0" kY="0" cX="1" cY="1" pX="46.5" pY="27.5" z="1" dI="0" dr="0.3"/>
+     <f x="65.4" y="66.4" kX="30.24" kY="30.24" cX="1" cY="1" pX="46.45" pY="27.45" z="1" dI="0" dr="0.3"/>
+     <f x="65.4" y="66.35" kX="30.24" kY="30.24" cX="1" cY="1" pX="46.4" pY="27.4" z="1" dI="0" dr="0.3"/>
+    </b>
+    <b name="head" sc="1" dl="0">
+     <f x="0.35" y="-0.65" kX="0" kY="0" cX="1" cY="1" pX="99.5" pY="50" z="2" dI="0" dr="0.3"/>
+     <f x="2.4" y="6.55" kX="30.24" kY="30.24" cX="1" cY="1" pX="99.45" pY="50.05" z="2" dI="0" dr="0.3"/>
+     <f x="2.4" y="6.55" kX="30.24" kY="30.24" cX="1" cY="1" pX="99.45" pY="50.05" z="2" dI="0" dr="0.3"/>
+    </b>
+    <b name="legR" sc="1" dl="0">
+     <f x="31.5" y="81.75" kX="0" kY="0" cX="1" cY="1" pX="37.5" pY="60" z="3" dI="0" dr="0.3"/>
+     <f x="31.5" y="81.75" kX="0" kY="0" cX="1" cY="1" pX="37.5" pY="60" z="3" dI="0" dr="0.3"/>
+     <f x="31.5" y="81.75" kX="0" kY="0" cX="1" cY="1" pX="37.5" pY="60" z="3" dI="0" dr="0.3"/>
+    </b>
+   </mov>
+   <mov name="die" dr="2" to="6" drTW="24" lp="1" twE="NaN">
+    <b name="legL" sc="1" dl="0">
+     <f x="-99.25" y="101" kX="57.45" kY="57.45" cX="1" cY="1" pX="49.5" pY="55.5" z="0" dI="0" dr="1"/>
+    </b>
+    <b name="body" sc="1" dl="0">
+     <f x="93.5" y="69.3" kX="14.51" kY="14.51" cX="1" cY="1" pX="46.4" pY="27.6" z="1" dI="0" dr="1"/>
+    </b>
+    <b name="head" sc="1" dl="0">
+     <f x="1.2" y="62.45" kX="-18.71" kY="-18.71" cX="1" cY="1" pX="99.55" pY="50.05" z="2" dI="0" dr="1"/>
+    </b>
+    <b name="legR" sc="1" dl="0">
+     <f x="56.65" y="97.7" kX="-55.99" kY="-55.99" cX="1" cY="1" pX="37.45" pY="60.1" z="3" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+</skeleton>

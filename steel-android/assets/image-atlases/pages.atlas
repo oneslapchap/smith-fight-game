@@ -1,0 +1,678 @@
+
+outlines/swords/tier-1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+outlines/sword-tier-1-crude-scimitar
+  rotate: false
+  xy: 1, 363
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: -1
+outlines/sword-tier-1-crude-cleavesword
+  rotate: false
+  xy: 1, 1
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: -1
+outlines/sword-tier-1-crude-sawblade
+  rotate: false
+  xy: 273, 363
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: -1
+outlines/sword-tier-1-crude-broadsword
+  rotate: false
+  xy: 273, 1
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: -1
+
+outlines/swords/tier-2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+outlines/sword-tier-2-wicked-scimitar
+  rotate: false
+  xy: 1, 1
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: -1
+outlines/sword-tier-2-gust
+  rotate: false
+  xy: 273, 1
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: -1
+
+outlines/staffs/tier-1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+outlines/staff-tier-1-octopus-staff
+  rotate: false
+  xy: 1, 1
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: -1
+outlines/staff-tier-1-simple-staff
+  rotate: false
+  xy: 273, 1
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: -1
+
+weapons/swords/tier-1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+weapons/sword-tier-1-crude-scimitar
+  rotate: false
+  xy: 1, 1
+  size: 100, 300
+  orig: 100, 300
+  offset: 0, 0
+  index: -1
+weapons/sword-tier-1-crude-sawblade
+  rotate: false
+  xy: 103, 1
+  size: 94, 300
+  orig: 94, 300
+  offset: 0, 0
+  index: -1
+weapons/sword-tier-1-crude-cleavesword
+  rotate: false
+  xy: 199, 2
+  size: 52, 299
+  orig: 52, 299
+  offset: 0, 0
+  index: -1
+weapons/sword-tier-1-crude-broadsword
+  rotate: false
+  xy: 253, 1
+  size: 36, 300
+  orig: 36, 300
+  offset: 0, 0
+  index: -1
+
+weapons/swords/tier-2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+weapons/sword-tier-2-wicked-scimitar
+  rotate: false
+  xy: 1, 1
+  size: 110, 339
+  orig: 110, 339
+  offset: 0, 0
+  index: -1
+weapons/sword-tier-2-gust
+  rotate: false
+  xy: 113, 2
+  size: 110, 338
+  orig: 110, 338
+  offset: 0, 0
+  index: -1
+
+weapons/staffs/tier-1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+weapons/staff-tier-1-octopus-staff
+  rotate: false
+  xy: 1, 2
+  size: 58, 99
+  orig: 58, 99
+  offset: 0, 0
+  index: -1
+weapons/staff-tier-1-simple-staff
+  rotate: false
+  xy: 61, 1
+  size: 6, 100
+  orig: 6, 100
+  offset: 0, 0
+  index: -1
+
+handles/swords/tier-1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+handles/rapier-handle
+  rotate: false
+  xy: 1, 1
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+handles/rough-handle
+  rotate: false
+  xy: 103, 31
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+
+staff-middles/tier-1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+staff-middles/golden-staff-middle
+  rotate: false
+  xy: 1, 1
+  size: 42, 100
+  orig: 42, 100
+  offset: 0, 0
+  index: -1
+staff-middles/simple-staff-middle
+  rotate: false
+  xy: 45, 1
+  size: 16, 100
+  orig: 16, 100
+  offset: 0, 0
+  index: -1
+
+staff-tops/tier-1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+staff-tops/orb
+  rotate: false
+  xy: 1, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+staff-tops/skull
+  rotate: false
+  xy: 53, 1
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+
+runes/tier-1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+runes/attack-power-rune
+  rotate: false
+  xy: 1, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+runes/magic-power-rune
+  rotate: false
+  xy: 23, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+runes/defense-power-rune
+  rotate: false
+  xy: 45, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+
+ingots/ingot.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ingots/steel-ingot
+  rotate: false
+  xy: 1, 1
+  size: 100, 51
+  orig: 100, 51
+  offset: 0, 0
+  index: -1
+ingots/copper-ingot
+  rotate: false
+  xy: 103, 1
+  size: 100, 51
+  orig: 100, 51
+  offset: 0, 0
+  index: -1
+ingots/diamond-ingot
+  rotate: false
+  xy: 205, 2
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+ingots/demonic-ingot
+  rotate: false
+  xy: 307, 2
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+
+stats/stats.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stats/attack-power
+  rotate: false
+  xy: 1, 1
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+stats/defense-power
+  rotate: false
+  xy: 28, 1
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+stats/magic-power
+  rotate: false
+  xy: 55, 1
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+
+single-objects/blank.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+single-objects/blank
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+single-objects/switch.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+single-objects/switch-down
+  rotate: false
+  xy: 1, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+single-objects/switch-up
+  rotate: false
+  xy: 203, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
+single-objects/chain.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+single-objects/chain
+  rotate: false
+  xy: 1, 1
+  size: 100, 400
+  orig: 100, 400
+  offset: 0, 0
+  index: -1
+
+single-objects/flare.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+single-objects/flare
+  rotate: false
+  xy: 1, 1
+  size: 269, 171
+  orig: 269, 171
+  offset: 0, 0
+  index: -1
+
+single-objects/grind-wheel.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+single-objects/grind-wheel
+  rotate: false
+  xy: 1, 1
+  size: 135, 360
+  orig: 135, 360
+  offset: 0, 0
+  index: -1
+
+single-animations/lava/lava-1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+single-animations/lava
+  rotate: false
+  xy: 1, 363
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: 4
+single-animations/lava
+  rotate: false
+  xy: 1, 1
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: 11
+single-animations/lava
+  rotate: false
+  xy: 273, 363
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: 12
+single-animations/lava
+  rotate: false
+  xy: 273, 1
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: 1
+single-animations/lava
+  rotate: false
+  xy: 545, 363
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: 10
+single-animations/lava
+  rotate: false
+  xy: 545, 1
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: 6
+
+single-animations/lava/lava-2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+single-animations/lava
+  rotate: false
+  xy: 1, 363
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: 0
+single-animations/lava
+  rotate: false
+  xy: 1, 1
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: 13
+single-animations/lava
+  rotate: false
+  xy: 273, 363
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: 2
+single-animations/lava
+  rotate: false
+  xy: 273, 1
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: 5
+single-animations/lava
+  rotate: false
+  xy: 545, 363
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: 9
+single-animations/lava
+  rotate: false
+  xy: 545, 1
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: 14
+
+single-animations/lava/lava-3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+single-animations/lava
+  rotate: false
+  xy: 1, 1
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: 7
+single-animations/lava
+  rotate: false
+  xy: 273, 1
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: 3
+single-animations/lava
+  rotate: false
+  xy: 545, 1
+  size: 270, 360
+  orig: 270, 360
+  offset: 0, 0
+  index: 8
+
+backgrounds/smelt-screen-background.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+backgrounds/smelt-screen-background
+  rotate: false
+  xy: 1, 1
+  size: 800, 480
+  orig: 800, 480
+  offset: 0, 0
+  index: -1
+
+backgrounds/camp-screen-background.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+backgrounds/camp-screen-background
+  rotate: false
+  xy: 1, 1
+  size: 400, 240
+  orig: 400, 240
+  offset: 0, 0
+  index: -1
+
+backgrounds/objects/grass-object.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backgrounds/objects/grass3
+  rotate: false
+  xy: 2, 2
+  size: 300, 28
+  orig: 300, 28
+  offset: 0, 0
+  index: -1
+backgrounds/objects/grass2
+  rotate: false
+  xy: 2, 32
+  size: 300, 28
+  orig: 300, 28
+  offset: 0, 0
+  index: -1
+backgrounds/objects/grass1
+  rotate: false
+  xy: 304, 2
+  size: 300, 28
+  orig: 300, 28
+  offset: 0, 0
+  index: -1
+backgrounds/objects/grass
+  rotate: false
+  xy: 304, 32
+  size: 300, 28
+  orig: 300, 28
+  offset: 0, 0
+  index: -1
+
+backgrounds/objects/jungle-objects.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jungle-objects/mountain
+  rotate: false
+  xy: 1, 53
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jungle-objects/tree
+  rotate: false
+  xy: 203, 54
+  size: 50, 199
+  orig: 50, 199
+  offset: 0, 0
+  index: -1
+jungle-objects/vine
+  rotate: false
+  xy: 255, 53
+  size: 25, 200
+  orig: 25, 200
+  offset: 0, 0
+  index: -1
+jungle-objects/cloud
+  rotate: false
+  xy: 282, 188
+  size: 142, 65
+  orig: 142, 65
+  offset: 0, 0
+  index: -1
+jungle-objects/leaf2
+  rotate: false
+  xy: 1, 1
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+jungle-objects/leaf1
+  rotate: false
+  xy: 282, 136
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+
+smelt-pot/smelt-pot-objects.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+smelt-pot-objects/smelt-timer
+  rotate: false
+  xy: 1, 23
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+smelt-pot-objects/pot
+  rotate: false
+  xy: 103, 23
+  size: 89, 100
+  orig: 89, 100
+  offset: 0, 0
+  index: -1
+smelt-pot-objects/lava-spill
+  rotate: false
+  xy: 194, 23
+  size: 18, 100
+  orig: 18, 100
+  offset: 0, 0
+  index: 5
+smelt-pot-objects/lava-spill
+  rotate: false
+  xy: 214, 23
+  size: 18, 100
+  orig: 18, 100
+  offset: 0, 0
+  index: 1
+smelt-pot-objects/lava-spill
+  rotate: false
+  xy: 234, 23
+  size: 18, 100
+  orig: 18, 100
+  offset: 0, 0
+  index: 3
+smelt-pot-objects/lava-spill
+  rotate: false
+  xy: 254, 23
+  size: 18, 100
+  orig: 18, 100
+  offset: 0, 0
+  index: 6
+smelt-pot-objects/lava-spill
+  rotate: false
+  xy: 274, 23
+  size: 18, 100
+  orig: 18, 100
+  offset: 0, 0
+  index: 8
+smelt-pot-objects/lava-spill
+  rotate: false
+  xy: 294, 23
+  size: 18, 100
+  orig: 18, 100
+  offset: 0, 0
+  index: 7
+smelt-pot-objects/lava-spill
+  rotate: false
+  xy: 314, 23
+  size: 18, 100
+  orig: 18, 100
+  offset: 0, 0
+  index: 4
+smelt-pot-objects/lava-spill
+  rotate: false
+  xy: 334, 23
+  size: 18, 100
+  orig: 18, 100
+  offset: 0, 0
+  index: 0
+smelt-pot-objects/lava-spill
+  rotate: false
+  xy: 354, 23
+  size: 18, 100
+  orig: 18, 100
+  offset: 0, 0
+  index: 2
+smelt-pot-objects/lava-spill
+  rotate: false
+  xy: 374, 23
+  size: 18, 100
+  orig: 18, 100
+  offset: 0, 0
+  index: 9
+smelt-pot-objects/pot-hatch
+  rotate: false
+  xy: 1, 1
+  size: 90, 20
+  orig: 90, 20
+  offset: 0, 0
+  index: -1
+smelt-pot-objects/smelt-timer-arrow
+  rotate: false
+  xy: 394, 83
+  size: 15, 40
+  orig: 15, 40
+  offset: 0, 0
+  index: -1
